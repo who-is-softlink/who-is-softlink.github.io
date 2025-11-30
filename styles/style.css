@@ -27,12 +27,15 @@ html {
 }
 
 body {
-  width: 600px;
+    width: 600px;
   margin: 0 auto;
-    background-image: url('images/background.png');
-  background-size: cover;
+
+  background-image: url('images/profile.png');
+  background-size: contain;        /* fits the whole image inside the box */
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: top center; /* adjust as needed */
+
+  background-color: #FF9500;
   padding: 0 20px 20px 20px;
   border: 5px solid black;
 }
