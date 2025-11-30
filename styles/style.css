@@ -30,10 +30,10 @@ body {
     width: 600px;
   margin: 0 auto;
 
-  background-image: url('images/profile.png');
-  background-size: contain;        /* fits the whole image inside the box */
+  /* background-image: url('images/profile.png');
+  background-size: contain;        
   background-repeat: no-repeat;
-  background-position: top center; /* adjust as needed */
+  background-position: top center; */
 
   background-color: #FF9500;
   padding: 0 20px 20px 20px;
