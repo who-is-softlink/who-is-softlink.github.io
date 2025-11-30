@@ -17,7 +17,13 @@ p, li {
 
 
 html {
-  background-color: #00539F;
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+
+  background-image: url('images/background.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 body {
